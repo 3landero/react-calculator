@@ -47,7 +47,7 @@ function App() {
         <Button handleClick={ addInput } >1</Button>
         <Button handleClick={ addInput } >2</Button>
         <Button handleClick={ addInput } >3</Button>
-        <Button handleClick={ addInput } >X</Button>
+        <Button handleClick={ addInput } >*</Button>
         
         </div>
       <div className='row' >
